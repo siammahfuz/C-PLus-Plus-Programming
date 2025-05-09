@@ -48,7 +48,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/C-Plus-Plus-Programming.git
+git clone https://github.com/siammahfuz/C-PLus-Plus-Programming
 cd C-Plus-Plus-Programming
 Compile a sample C++ program:
 
